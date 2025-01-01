@@ -2,5 +2,10 @@
 <h2>"this is from branch2" </h2>
 
 const a=()=>{
-    return "this is the conflict!"
-}
+    return 10}
+    <>"add conflict"</>
+
+const aa=()=>{
+        return 10}
+        <>"add conflict"</>
+    
