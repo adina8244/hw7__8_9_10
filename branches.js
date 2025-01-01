@@ -7,5 +7,5 @@ const a=()=>{
 
 const aa=()=>{
         return 10}
-const b=()=>{
+const c=()=>{
             return 10}
