@@ -7,5 +7,5 @@ const a=()=>{
 
 const aa=()=>{
         return 10}
-        <>"add conflict"</>
-    
+const b=()=>{
+            return 10}
