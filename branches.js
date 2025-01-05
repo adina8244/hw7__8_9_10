@@ -12,4 +12,7 @@ const b = () => {
 const cc = () => {
     return 10
 }
+const dd = () => {
+    return 10
+}
 <>"add conflict"</>
