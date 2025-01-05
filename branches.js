@@ -12,10 +12,21 @@ const b=()=>{
             return 10}
 
 
-const cc = () => {
+const bbbbbbbbb = () => {
     return 10
 }
-const gg = () => {
+
+const gg = () => {}
+
+const ppgit = () => {
+    return 10
+}
+
+const qqqqq = () => {
+    return 10
+}
+const wwww = () => {
+
     return 10
 }
 const ee = () => {
