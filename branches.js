@@ -15,25 +15,12 @@ const ggg = () => {
 const ll = () => {
     return 10
 }
-const rr = () => {
+
+const w = () => {
     return 10
 }
 
-const asas = () => {
-    return 10
-}
-const aaaaaaaaaaa = () => {
-    return 10
-}
-
-const bbbbbbbbb = () => {
-    return 10
-}
-const cccccccccccccc = () => {
-    return 10
-}
-
-const dddddddddddddddddddddddd = () => {
+const wwwwwwwwwww = () => {
     return 10
 }
 
